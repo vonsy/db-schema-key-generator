@@ -1,3 +1,11 @@
+$ ./keygen test   
+DbSchema Key Generator   
+Usage: keygen <username>   
+salt:27471   
+encrypt:ax5testb52w27471vb3   
+md5:4eb1681f1e4aba8509435536f47afb01   
+Key: 4eb127471681f1e4aba8509435536f47afb01   
+
 ![preview](http://git.oschina.net/uploads/images/2016/0803/113914_82b49165_717.png "preview")
 
 This is a key generator for Db Schema, just for hack pourpose, if your really need this nice product, [please buy a license](http://www.dbschema.com/purchase.html).
