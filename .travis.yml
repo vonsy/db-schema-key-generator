@@ -7,5 +7,4 @@ script:
   - pwd
   - cd schema_generator
   - pwd
-  - make  
-  - ./keygen test
+  - make
