@@ -4,5 +4,6 @@ compiler:
   - clang
   - gcc
   
-script: cd db-schema-key-generator
-script: make  
+script: 
+  - cd db-schema-key-generator
+  - make  
