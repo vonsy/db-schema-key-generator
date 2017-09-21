@@ -1,3 +1,7 @@
-install: make get-deps
 language: cpp
-make
+
+compiler:
+  - clang
+  - gcc
+
+script: make  
