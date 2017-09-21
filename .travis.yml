@@ -8,3 +8,4 @@ script:
   - cd schema_generator
   - pwd
   - make  
+  - ./keygen test
