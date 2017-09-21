@@ -1,9 +1,8 @@
 language: cpp
 
 compiler:
-  - clang
   - gcc
   
 script: 
-  - cd db-schema-key-generator
+  - pwd
   - make  
